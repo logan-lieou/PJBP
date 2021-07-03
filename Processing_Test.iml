@@ -7,154 +7,154 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/core.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/core.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-linux-aarch64.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-linux-aarch64.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-linux-amd64.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-linux-amd64.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-linux-armv6hf.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-linux-armv6hf.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-linux-i586.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-linux-i586.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-macosx-universal.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-macosx-universal.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-windows-amd64.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-windows-amd64.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt-natives-windows-i586.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt-natives-windows-i586.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/gluegen-rt.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/gluegen-rt.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-linux-aarch64.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-linux-aarch64.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-linux-amd64.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-linux-amd64.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-linux-armv6hf.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-linux-armv6hf.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-linux-i586.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-linux-i586.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-macosx-universal.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-macosx-universal.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-windows-amd64.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-windows-amd64.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all-natives-windows-i586.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all-natives-windows-i586.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="module-library" exported="">
+    <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Downloads/processing-3.5.4-linux64/processing-3.5.4/core/library/jogl-all.jar!/" />
+          <root url="jar://$MODULE_DIR$/deps/jogl-all.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
